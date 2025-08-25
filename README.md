@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on Hospital patients' registration platform using PHP, CSS and HTML
+- 🌱 I’m currently learning German language
+- 👯 I’m looking to collaborate on Python projects
+
+
 <!--
 **cozanostra7/cozanostra7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
