@@ -4,7 +4,9 @@
 - 🌱 I’m currently learning German language
 - 👯 I’m looking to collaborate on Python projects
 
+Languages and tools:
 
+Python, Django, Django-rest-framework, PostgreSQL,Docker
 <!--
 **cozanostra7/cozanostra7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
