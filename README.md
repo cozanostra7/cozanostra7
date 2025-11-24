@@ -4,9 +4,13 @@
 - 🌱 I’m currently learning German language
 - 👯 I’m looking to collaborate on Python projects
 
-Languages and tools:
+# Languages and tools:
 
-Python, Django, Django-rest-framework, PostgreSQL,Docker
+[![ Backend](https://skillicons.dev/icons?i=py,django&perline=3)](https://skillicons.dev)
+[![ Frontend](https://skillicons.dev/icons?i=html,css,&perline=3)](https://skillicons.dev)
+[![ Databases](https://skillicons.dev/icons?i=sqlite,postgres&perline=3)](https://skillicons.dev)
+
+
 <!--
 **cozanostra7/cozanostra7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
