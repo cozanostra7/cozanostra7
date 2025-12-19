@@ -9,6 +9,7 @@
 [![ Backend](https://skillicons.dev/icons?i=py,django&perline=3)](https://skillicons.dev)
 [![ Frontend](https://skillicons.dev/icons?i=html,css,&perline=3)](https://skillicons.dev)
 [![ Databases](https://skillicons.dev/icons?i=sqlite,postgres&perline=3)](https://skillicons.dev)
+![My technologies](https://go-skill-icons.vercel.app/api/icons?i=sqlalchemy)
 
 
 <!--
