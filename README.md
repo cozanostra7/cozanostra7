@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Telegram Bot, which allows users to order flowers. With functionality to pay directly in the bot.
+
 - 🌱 I’m currently learning German language
 - 👯 I’m looking to collaborate on Python projects
 
