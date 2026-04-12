@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-- 🌱 I’m currently learning German language
+- 🌱 I’m currently improving and deepening my FastAPI skills
 - 👯 I’m looking to collaborate on Python projects
 
 # Languages and tools:
