@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-- 🌱 I’m currently improving and deepening my FastAPI skills
+- 🌱 I’m currently working on Manufacturing execution system, automation of machine workflows
 - 👯 I’m looking to collaborate on Python projects
 
 # Languages and tools:
